@@ -20,7 +20,23 @@ There are three tables under schema:
 
 ## Contents
 
-see [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
+- count, min and max
+- statistics
+- filter group
+- reformat
+- extra_string 
+- regular_expression
+- reformat number
+- subqueries
+- join
+- grouping
+- rollup and cube
+- fetch first
+- window
+- lag, lead and NTile
+
+
+more details see [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
 
 
 
