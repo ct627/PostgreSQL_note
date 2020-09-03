@@ -20,7 +20,7 @@ There are three tables under schema:
 
 ## Contents
 
-see [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.pgsql)
+see [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
 
 
 
