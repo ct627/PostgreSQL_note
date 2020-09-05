@@ -36,7 +36,7 @@ There are three tables under schema:
 - lag, lead and NTile
 
 
-more details see [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
+see more details [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
 
 
 
