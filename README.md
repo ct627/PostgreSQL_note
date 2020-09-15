@@ -4,7 +4,7 @@ This is a PostgreSQL learning note after courses (LinkedIn Learning course: Adva
 
 ## Installation 
 
-Download postgresql from [here](https://www.postgresql.org/download/)
+Download postgresql from [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 
 ## Preparation 
 
@@ -36,7 +36,7 @@ There are three tables under schema:
 - lag, lead and NTile
 
 
-see more details [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql)
+Check [here](https://github.com/ct627/PostgreSQL_note/blob/master/sql.sql) to see more details. 
 
 
 
